@@ -6,8 +6,8 @@
 export const company = {
   nameAr: "برج بابل",
   nameEn: "Burj Babel",
-  /** يُستخدم في روابط الميتا وخريطة الموقع. استبدله بنطاق الشركة عند الإطلاق. */
-  siteUrl: "https://burjbabel.com",
+  /** يُستخدم في روابط الميتا وخريطة الموقع. استبدله بنطاق الشركة عند ربط دومين خاص. */
+  siteUrl: "https://burj-babel.vercel.app",
   tagline: "شريكك الموثوق في التجارة بالجملة",
   activity: "تجارة بالجملة",
   city: "الحلة",
